@@ -1,0 +1,5 @@
+When beings with souls slumber in the [[Old World]], some individuals find themselves in a strange land deep within their dreams. Unbeknownst to these living souls, they find themselves briefly manifesting a presence in [[Limbo]].
+
+To the denizens of the plane of judgment, Dreamers appear sporadically and without warning, briefly flashing into existence performing whatever actions they find themselves imagining in their sleep. While some initially find these living ghosts disturbing, most eventually find themselves getting used to this phenomenon.
+
+Rumors exist of living souls dreaming with power and intent to manifest in Limbo. These Dreamers are said to be extremely dangerous, for they posses knowledge of the Old World and Limbo, usually accompanied by the power to exert their influence while manifesting their souls in Limbo.

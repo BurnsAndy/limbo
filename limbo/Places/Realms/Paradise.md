@@ -1,0 +1,1 @@
+An afterlife believed by some to be the final destination for the good and faithful.

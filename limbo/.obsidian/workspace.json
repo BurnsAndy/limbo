@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3d3d924f7156967",
+        "id": "006d672b96619549",
         "type": "tabs",
         "children": [
           {
-            "id": "b29e5a8efc78a34e",
+            "id": "8eb30a3ccfd96095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-21.md",
+                "file": "Places/Regions/al-A'Raf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-21.md",
+                "file": "Places/Regions/al-A'Raf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-21.md",
+                "file": "Places/Regions/al-A'Raf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-21.md"
+                "file": "Places/Regions/al-A'Raf.md"
               }
             }
           }
@@ -146,10 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b29e5a8efc78a34e",
+  "active": "8eb30a3ccfd96095",
   "lastOpenFiles": [
+    "Places/Regions/al-A'Raf.md",
+    "2024-06-22.md",
+    "Organizations/Ferrymen.md",
+    "Game Mechanics/Death.md",
+    "Daily Notes/2024-06-21.md",
+    "Game Mechanics/Permanent Injuries.md",
+    "Game Mechanics/Gritty Realism.md",
+    "Game Mechanics/Backgrounds/Lost Soul (Background).md",
+    "Game Mechanics/Backgrounds/New Soul (Background).md",
+    "Game Mechanics/Backgrounds/Wayward Soul (Background).md",
+    "Game Mechanics/Backgrounds",
+    "Places/Realms/Limbo.md",
+    "Places/Realms/Old World.md",
+    "Places/Realms/Perdition.md",
+    "Creatures/New Soul.md",
+    "Places/Regions/Darkwood.md",
+    "Reavers.md",
+    "Organizations/Lost.md",
+    "Places/Settlements/Tartarus.md",
+    "Creatures/Dreamer.md",
+    "Game Mechanics",
+    "Places/Regions/Blackshore.md",
+    "Creatures/Wayward Soul.md",
+    "Creatures",
+    "Places/Geographical Features/Nyxian Sea.md",
+    "Places/Geographical Features",
+    "Places/Realms/Paradise.md",
+    "Places/Places.md",
+    "Places/Regions",
+    "Places/Settlements",
+    "Places/Realms",
+    "NPCs",
+    "Organizations",
+    "Daily Notes",
     "Welcome.md",
-    "create a link.md",
-    "2024-06-21.md"
+    "create a link.md"
   ]
 }

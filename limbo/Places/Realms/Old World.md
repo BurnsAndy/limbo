@@ -1,0 +1,3 @@
+The collective term for the place the [[Wayward Soul]]s existed before their death. Not much is known about the world they existed in before arriving to [[Limbo]], there has been some knowledge gathered about some of the history, culture, and religion of their origin.
+
+This knowledge is usually the result of many instances of data recovered from [[Dreamer]] observations or reclaimed memories. Though, anything remembered about the world that came before should be treated with some level of skepticism as there are plenty of people who aim to take advantage of those who yearn for this lost world.

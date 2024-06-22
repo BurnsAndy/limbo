@@ -1,0 +1,3 @@
+Not all who wash ashore from the [[Nyxian Sea]] adjust well to their newfound surroundings. The "Lost" is the colloquial term for anyone or anything that has seemingly lost their mind and now roams the land as something less than a person, but all the more dangerous.
+
+As the term encompasses a variety of creatures, from bandits to cannibals to cultists, there is not one central governance of the Lost. Most act as lone operatives, stalking [[Limbo]] as dangerous predators for those who wish to have a more peaceful existence. 

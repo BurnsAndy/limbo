@@ -1,0 +1,1 @@
+A seemingly endless ocean that surrounds the landmasses of [[Limbo]]. Instead of water, this sea appears to be made up a viscous black liquid that shimmers like a starry night sky.
