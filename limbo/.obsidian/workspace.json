@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Regions/al-A'Raf.md",
+                "file": "Game Mechanics/Backgrounds/New Soul (Background).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Regions/al-A'Raf.md",
+                "file": "Game Mechanics/Backgrounds/New Soul (Background).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Regions/al-A'Raf.md",
+                "file": "Game Mechanics/Backgrounds/New Soul (Background).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Regions/al-A'Raf.md"
+                "file": "Game Mechanics/Backgrounds/New Soul (Background).md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "8eb30a3ccfd96095",
   "lastOpenFiles": [
+    "Places/Realms/Limbo.md",
+    "Daily Notes/2024-06-22.md",
+    "Game Mechanics/Backgrounds/Wayward Soul (Background).md",
+    "Creatures/Dreamer.md",
     "Places/Regions/al-A'Raf.md",
-    "2024-06-22.md",
     "Organizations/Ferrymen.md",
     "Game Mechanics/Death.md",
     "Daily Notes/2024-06-21.md",
@@ -157,9 +160,7 @@
     "Game Mechanics/Gritty Realism.md",
     "Game Mechanics/Backgrounds/Lost Soul (Background).md",
     "Game Mechanics/Backgrounds/New Soul (Background).md",
-    "Game Mechanics/Backgrounds/Wayward Soul (Background).md",
     "Game Mechanics/Backgrounds",
-    "Places/Realms/Limbo.md",
     "Places/Realms/Old World.md",
     "Places/Realms/Perdition.md",
     "Creatures/New Soul.md",
@@ -167,7 +168,6 @@
     "Reavers.md",
     "Organizations/Lost.md",
     "Places/Settlements/Tartarus.md",
-    "Creatures/Dreamer.md",
     "Game Mechanics",
     "Places/Regions/Blackshore.md",
     "Creatures/Wayward Soul.md",
